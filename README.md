@@ -19,7 +19,7 @@ This is a network-enabled Chess game built in Java. The game supports both local
   - ![Screenshot 6](6.png)
 
 ## Demo
-[Watch the Demo Video](https://github.com/user-attachments/assets/8157c4a5-84b0-43a7-9530-b8397bb4b862)
+[Watch the Demo Video](https://github.com/user-attachments/assets/092ece4d-ced4-4e20-963b-cce855211fcf)
 
 
 ## Features
