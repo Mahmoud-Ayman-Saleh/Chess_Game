@@ -5,6 +5,23 @@
 
 This is a network-enabled Chess game built in Java. The game supports both local (two players on the same machine) and network modes (one player hosting and another joining). The project implements standard chess game logic—including legal move validation, check, checkmate, and restart/termination options—using a custom messaging protocol to communicate game events between players.
 
+## How To Play
+1. **First, each player runs the game and both of them choose `Server(Network)`.**
+   - ![Screenshot 1](1.png).
+2. **One of them Host the game.**
+   - ![Screenshot 2](2.png).
+   - ![Screenshot 3](3.png).
+3. **The other Join the Game and write the ip address or `127.0.0.1` if you play in the same device.**
+   - ![Screenshot 4](4.png).
+4. **The connection has established.**
+   - ![Screenshot 5](5.png)
+5. **Enjoy the game.**
+  - ![Screenshot 6](6.png)
+
+## Demo
+[Watch the Demo Video](https://github.com/user-attachments/assets/8157c4a5-84b0-43a7-9530-b8397bb4b862)
+
+
 ## Features
 
 - **Chess Game Logic:**  
